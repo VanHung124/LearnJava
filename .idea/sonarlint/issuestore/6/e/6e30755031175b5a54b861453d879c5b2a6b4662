@@ -1,0 +1,11 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾šÏû
+0
+java:S1220""Move this file to a named package.
+g	java:S116"MRename this field "DT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÔŸ™þÿÿÿÿ
+]
+java:S1659"BDeclare "email" and all following declarations on a separate line.(ÆÔŸ™þÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÐŒÆ¼ýÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìä£õøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ä…è…
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(£¦¤Ç
